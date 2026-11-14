@@ -1,0 +1,15 @@
+inicio
+Asterion vive en una casa que no tiene puertas cerradas. Todas están abiertas, de día y de noche, y a cualquiera le da paso. Hoy el patio está en silencio y las galerías lo llaman. ¿Qué hará?
+Las galerías recorren pasillos que se repiten. Cada corredor se parece al anterior y Asterion no sabe si camina hacia adelante o vuelve sobre sus pasos. A lo lejos hay una luz, y más cerca, una oscuridad tranquila.
+En el patio, Asterion inventa un juego: imagina que otro Asterion, otra versión de sí mismo, viene a visitarlo. Lo recibe con entusiasmo y se prepara para jugar con él.
+Entre las piedras yace un hilo perdido. Asterion no lo reconoce: nadie en la casa usa hilos. Lo toma con cuidado y no sabe si seguirlo o dejarlo atrás.
+Ruido en la oscuridad. Asterion se detiene: a lo lejos escucha pasos que no son los suyos. Nadie visita la casa desde hace mucho. Los pasos se acercan despacio y no sabe cómo reaccionar.
+La verdad incómoda. Su otro yo lo mira y le dice que Asterion no es como los demás. Las palabras duelen y el patio parece más pequeño que nunca. ¿Cómo va a responder?
+El sueño del mar. Cansado de tanto correr, Asterion se duerme y sueña con algo que nunca vio: una extensión enorme de agua que se mueve sin paredes. Despierta sin saber qué fue.
+La puerta nueva. El hilo lo lleva hasta una puerta desconocida. En una casa donde todas las puertas están abiertas, esta parece esperar a que alguien la cruce.
+La zona desconocida. Asterion llega a un sector de la casa que nunca había pisado. Todo está quieto y en silencio. Algo, o alguien, parece saber que está ahí.
+Las sombras se acercan. En la penumbra, Asterion ve figuras que avanzan hacia él, cada vez más cerca. No sabe si vienen a hacerle daño o a salvarlo.
+Frente a su propia naturaleza. Asterion se ve por primera vez como realmente es y no puede apartar la mirada. Tiene que decidir si lo acepta o si lo niega.
+FINAL A: Combate. Asterion no se resigna y se defiende con todas sus fuerzas, pero Teseo es más fuerte y lo vence peleando. La casa vuelve a quedar en silencio.
+FINAL B: Aceptación. Asterion no se defiende y casi recibe su final con alivio. Por fin entiende que no hacía falta huir ni resistirse. La casa queda en paz.
+FINAL C: El redentor equivocado. Asterion cree que quien llega es su redentor, pero descubre que es Teseo. Lo entendió demasiado tarde.
